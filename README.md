@@ -2,9 +2,9 @@
 
 # Requires
 
-> bootstrap 4
-> ng-bootstrap
-> ngx-auto-scroll
+- bootstrap4
+- ng-bootstrap
+- ngx-auto-scroll
 
 # Summary
 
