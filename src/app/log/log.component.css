@@ -1,0 +1,8 @@
+.logContainer {
+  margin: 5px;
+  padding: 4px;
+  border: 1px solid #aaa;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px #aaa;
+  height: 90%;
+}
